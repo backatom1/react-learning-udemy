@@ -1,0 +1,7 @@
+.app {
+	margin: 0 auto;
+	max-width: 800px;
+  }
+.app-bg {
+	background-color: rgb(195, 255, 255);
+}
